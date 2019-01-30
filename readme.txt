@@ -1,1 +1,1 @@
-This project is created for practising git process
+This project is created for practising git process.
